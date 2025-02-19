@@ -19,3 +19,17 @@ A simple banking system implemented in **C++**. This project allows users to man
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/banking-system.git
+## Compile the code:
+g++ Bank.cpp -o Bank
+Run the executable:
+./AshirwadS+Bank
+## Project Structure:
+📂 Bank Project
+ ├── 📄 Bank.cpp       # Main source code
+ ├── 📄 Bank.data      # Stores account details
+ ├── 📄 README.md      # Project documentation
+Future Enhancements:
+Transaction History for tracking deposits and withdrawals
+User Authentication for secure access
+Graphical UI for a better user experience
+Feel free to explore, contribute, and improve this project. Don't forget to star the repo if you found it useful! ⭐
